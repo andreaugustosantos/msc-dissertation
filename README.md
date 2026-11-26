@@ -1,4 +1,4 @@
-# Códigos andre
+# MSC Dissertation
 
 Este trabalho estuda se a exposição de uma firma a minerais críticos, medida nas earnings calls, está associada ao valor da firma.
 
